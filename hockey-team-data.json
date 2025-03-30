@@ -1,0 +1,392 @@
+[
+  {
+    "TeamName": "Boston Bruins",
+    "WinPercentage": 0.55,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Calgary Flames",
+    "WinPercentage": 0.575,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Chicago Blackhawks",
+    "WinPercentage": 0.613,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Detroit Red Wings",
+    "WinPercentage": 0.425,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Edmonton Oilers",
+    "WinPercentage": 0.463,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Los Angeles Kings",
+    "WinPercentage": 0.575,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Montreal Canadiens",
+    "WinPercentage": 0.487,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "New York Rangers",
+    "WinPercentage": 0.45,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Philadelphia Flyers",
+    "WinPercentage": 0.412,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Pittsburgh Penguins",
+    "WinPercentage": 0.512,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "St. Louis Blues",
+    "WinPercentage": 0.588,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332824
+  },
+  {
+    "TeamName": "Washington Capitals",
+    "WinPercentage": 0.463,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332825
+  },
+  {
+    "TeamName": "Boston Bruins",
+    "WinPercentage": 0.45,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332825
+  },
+  {
+    "TeamName": "Chicago Blackhawks",
+    "WinPercentage": 0.45,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332825
+  },
+  {
+    "TeamName": "Boston Bruins",
+    "WinPercentage": 0.55,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332828
+  },
+  {
+    "TeamName": "Calgary Flames",
+    "WinPercentage": 0.575,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332828
+  },
+  {
+    "TeamName": "Chicago Blackhawks",
+    "WinPercentage": 0.613,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332828
+  },
+  {
+    "TeamName": "Detroit Red Wings",
+    "WinPercentage": 0.425,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Edmonton Oilers",
+    "WinPercentage": 0.463,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Los Angeles Kings",
+    "WinPercentage": 0.575,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Montreal Canadiens",
+    "WinPercentage": 0.487,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "New York Rangers",
+    "WinPercentage": 0.45,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Philadelphia Flyers",
+    "WinPercentage": 0.412,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Pittsburgh Penguins",
+    "WinPercentage": 0.512,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "St. Louis Blues",
+    "WinPercentage": 0.588,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Washington Capitals",
+    "WinPercentage": 0.463,
+    "Year": 1990,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Boston Bruins",
+    "WinPercentage": 0.45,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Chicago Blackhawks",
+    "WinPercentage": 0.45,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332829
+  },
+  {
+    "TeamName": "Detroit Red Wings",
+    "WinPercentage": 0.537,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332833
+  },
+  {
+    "TeamName": "Edmonton Oilers",
+    "WinPercentage": 0.45,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332833
+  },
+  {
+    "TeamName": "Los Angeles Kings",
+    "WinPercentage": 0.438,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332833
+  },
+  {
+    "TeamName": "Montreal Canadiens",
+    "WinPercentage": 0.512,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332833
+  },
+  {
+    "TeamName": "New Jersey Devils",
+    "WinPercentage": 0.475,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332833
+  },
+  {
+    "TeamName": "New York Islanders",
+    "WinPercentage": 0.425,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332833
+  },
+  {
+    "TeamName": "New York Rangers",
+    "WinPercentage": 0.625,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Pittsburgh Penguins",
+    "WinPercentage": 0.487,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "St. Louis Blues",
+    "WinPercentage": 0.45,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Vancouver Canucks",
+    "WinPercentage": 0.525,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Washington Capitals",
+    "WinPercentage": 0.562,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Winnipeg Jets",
+    "WinPercentage": 0.412,
+    "Year": 1991,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Boston Bruins",
+    "WinPercentage": 0.607,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Buffalo Sabres",
+    "WinPercentage": 0.452,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Calgary Flames",
+    "WinPercentage": 0.512,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Chicago Blackhawks",
+    "WinPercentage": 0.56,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332834
+  },
+  {
+    "TeamName": "Detroit Red Wings",
+    "WinPercentage": 0.56,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332835
+  },
+  {
+    "TeamName": "Los Angeles Kings",
+    "WinPercentage": 0.464,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332838
+  },
+  {
+    "TeamName": "Minnesota North Stars",
+    "WinPercentage": 0.429,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332838
+  },
+  {
+    "TeamName": "Montreal Canadiens",
+    "WinPercentage": 0.571,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "New Jersey Devils",
+    "WinPercentage": 0.476,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "New York Islanders",
+    "WinPercentage": 0.476,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "New York Rangers",
+    "WinPercentage": 0.405,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "Philadelphia Flyers",
+    "WinPercentage": 0.429,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "Pittsburgh Penguins",
+    "WinPercentage": 0.667,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "Quebec Nordiques",
+    "WinPercentage": 0.56,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "St. Louis Blues",
+    "WinPercentage": 0.44,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "Toronto Maple Leafs",
+    "WinPercentage": 0.524,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "Vancouver Canucks",
+    "WinPercentage": 0.548,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332839
+  },
+  {
+    "TeamName": "Washington Capitals",
+    "WinPercentage": 0.512,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Winnipeg Jets",
+    "WinPercentage": 0.476,
+    "Year": 1992,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Boston Bruins",
+    "WinPercentage": 0.5,
+    "Year": 1993,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Buffalo Sabres",
+    "WinPercentage": 0.512,
+    "Year": 1993,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Calgary Flames",
+    "WinPercentage": 0.5,
+    "Year": 1993,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Chicago Blackhawks",
+    "WinPercentage": 0.464,
+    "Year": 1993,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Dallas Stars",
+    "WinPercentage": 0.5,
+    "Year": 1993,
+    "epochTimeOfScrape": 1743332840
+  },
+  {
+    "TeamName": "Detroit Red Wings",
+    "WinPercentage": 0.548,
+    "Year": 1993,
+    "epochTimeOfScrape": 1743332840
+  }
+]
