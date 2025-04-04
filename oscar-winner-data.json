@@ -1,239 +1,239 @@
 [
   {
-    "EpochTimeOfScrape": 1743332852,
-    "Title": "Spotlight",
+    "EpochTimeOfScrape": 1743739221,
+    "Title": "Spotlight 6 2",
     "Year": 2015,
     "Nomination": 6,
     "Awards": 2,
     "isWinner": true
   },
   {
-    "EpochTimeOfScrape": 1743332852,
-    "Title": "Mad Max: Fury Road",
+    "EpochTimeOfScrape": 1743739221,
+    "Title": "Mad Max: Fury Road 10 6",
     "Year": 2015,
     "Nomination": 10,
     "Awards": 6,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332852,
-    "Title": "The Revenant",
+    "EpochTimeOfScrape": 1743739221,
+    "Title": "The Revenant 12 3",
     "Year": 2015,
     "Nomination": 12,
     "Awards": 3,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332852,
-    "Title": "Bridge of Spies",
+    "EpochTimeOfScrape": 1743739222,
+    "Title": "Bridge of Spies 6 1",
     "Year": 2015,
     "Nomination": 6,
     "Awards": 1,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332852,
-    "Title": "The Big Short",
+    "EpochTimeOfScrape": 1743739222,
+    "Title": "The Big Short 5 1",
     "Year": 2015,
     "Nomination": 5,
     "Awards": 1,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332856,
-    "Title": "Birdman",
+    "EpochTimeOfScrape": 1743739224,
+    "Title": "Birdman 9 4",
     "Year": 2014,
     "Nomination": 9,
     "Awards": 4,
     "isWinner": true
   },
   {
-    "EpochTimeOfScrape": 1743332856,
-    "Title": "The Grand Budapest Hotel",
+    "EpochTimeOfScrape": 1743739224,
+    "Title": "The Grand Budapest Hotel 9 4",
     "Year": 2014,
     "Nomination": 9,
     "Awards": 4,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332856,
-    "Title": "Whiplash",
+    "EpochTimeOfScrape": 1743739224,
+    "Title": "Whiplash 5 3",
     "Year": 2014,
     "Nomination": 5,
     "Awards": 3,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332856,
-    "Title": "The Imitation Game",
+    "EpochTimeOfScrape": 1743739224,
+    "Title": "The Imitation Game 8 1",
     "Year": 2014,
     "Nomination": 8,
     "Awards": 1,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332857,
-    "Title": "American Sniper",
+    "EpochTimeOfScrape": 1743739224,
+    "Title": "American Sniper 6 1",
     "Year": 2014,
     "Nomination": 6,
     "Awards": 1,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332860,
-    "Title": "12 Years a Slave",
+    "EpochTimeOfScrape": 1743739227,
+    "Title": "12 Years a Slave 9 3",
     "Year": 2013,
     "Nomination": 9,
     "Awards": 3,
     "isWinner": true
   },
   {
-    "EpochTimeOfScrape": 1743332860,
-    "Title": "Gravity",
+    "EpochTimeOfScrape": 1743739227,
+    "Title": "Gravity 10 7",
     "Year": 2013,
     "Nomination": 10,
     "Awards": 7,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332860,
-    "Title": "Dallas Buyers Club",
+    "EpochTimeOfScrape": 1743739227,
+    "Title": "Dallas Buyers Club 6 3",
     "Year": 2013,
     "Nomination": 6,
     "Awards": 3,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332860,
-    "Title": "Frozen",
+    "EpochTimeOfScrape": 1743739227,
+    "Title": "Frozen 2 2",
     "Year": 2013,
     "Nomination": 2,
     "Awards": 2,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332860,
-    "Title": "The Great Gatsby",
+    "EpochTimeOfScrape": 1743739227,
+    "Title": "The Great Gatsby 2 2",
     "Year": 2013,
     "Nomination": 2,
     "Awards": 2,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332864,
-    "Title": "Argo",
+    "EpochTimeOfScrape": 1743739229,
+    "Title": "Argo 7 3",
     "Year": 2012,
     "Nomination": 7,
     "Awards": 3,
     "isWinner": true
   },
   {
-    "EpochTimeOfScrape": 1743332864,
-    "Title": "Life of Pi",
+    "EpochTimeOfScrape": 1743739229,
+    "Title": "Life of Pi 11 4",
     "Year": 2012,
     "Nomination": 11,
     "Awards": 4,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332864,
-    "Title": "Les Misérables",
+    "EpochTimeOfScrape": 1743739229,
+    "Title": "Les Misérables 8 3",
     "Year": 2012,
     "Nomination": 8,
     "Awards": 3,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332864,
-    "Title": "Lincoln",
+    "EpochTimeOfScrape": 1743739230,
+    "Title": "Lincoln 12 2",
     "Year": 2012,
     "Nomination": 12,
     "Awards": 2,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332864,
-    "Title": "Django Unchained",
+    "EpochTimeOfScrape": 1743739230,
+    "Title": "Django Unchained 5 2",
     "Year": 2012,
     "Nomination": 5,
     "Awards": 2,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332867,
-    "Title": "The Artist",
+    "EpochTimeOfScrape": 1743739232,
+    "Title": "The Artist 10 5",
     "Year": 2011,
     "Nomination": 10,
     "Awards": 5,
     "isWinner": true
   },
   {
-    "EpochTimeOfScrape": 1743332868,
-    "Title": "Hugo",
+    "EpochTimeOfScrape": 1743739232,
+    "Title": "Hugo 11 5",
     "Year": 2011,
     "Nomination": 11,
     "Awards": 5,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332868,
-    "Title": "The Iron Lady",
+    "EpochTimeOfScrape": 1743739232,
+    "Title": "The Iron Lady 2 2",
     "Year": 2011,
     "Nomination": 2,
     "Awards": 2,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332868,
-    "Title": "The Descendants",
+    "EpochTimeOfScrape": 1743739232,
+    "Title": "The Descendants 5 1",
     "Year": 2011,
     "Nomination": 5,
     "Awards": 1,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332868,
-    "Title": "The Girl with the Dragon Tattoo",
+    "EpochTimeOfScrape": 1743739232,
+    "Title": "The Girl with the Dragon Tattoo 5 1",
     "Year": 2011,
     "Nomination": 5,
     "Awards": 1,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332871,
-    "Title": "The King\u0027s Speech",
+    "EpochTimeOfScrape": 1743739235,
+    "Title": "The King\u0027s Speech 12 4",
     "Year": 2010,
     "Nomination": 12,
     "Awards": 4,
     "isWinner": true
   },
   {
-    "EpochTimeOfScrape": 1743332871,
-    "Title": "Inception",
+    "EpochTimeOfScrape": 1743739235,
+    "Title": "Inception 8 4",
     "Year": 2010,
     "Nomination": 8,
     "Awards": 4,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332872,
-    "Title": "The Social Network",
+    "EpochTimeOfScrape": 1743739235,
+    "Title": "The Social Network 8 3",
     "Year": 2010,
     "Nomination": 8,
     "Awards": 3,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332872,
-    "Title": "The Fighter",
+    "EpochTimeOfScrape": 1743739235,
+    "Title": "The Fighter 7 2",
     "Year": 2010,
     "Nomination": 7,
     "Awards": 2,
     "isWinner": false
   },
   {
-    "EpochTimeOfScrape": 1743332872,
-    "Title": "Toy Story 3",
+    "EpochTimeOfScrape": 1743739235,
+    "Title": "Toy Story 3 5 2",
     "Year": 2010,
     "Nomination": 5,
     "Awards": 2,

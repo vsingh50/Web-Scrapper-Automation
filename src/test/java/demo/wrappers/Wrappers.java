@@ -77,19 +77,21 @@ public class Wrappers {
             WebElement nextPage = driver.findElement(By.xpath("//a[@aria-label='Next']"));
             System.out.println("Page: "+ i);
             for(WebElement element : list){
-                double winPct = Double.parseDouble(element.getText());
-                WebElement nameElement = element.findElement(By.xpath("preceding-sibling::td[contains(@class,'name')]"));
-                String name = nameElement.getText();
-                WebElement yearElement = element.findElement(By.xpath("preceding-sibling::td[contains(@class,'year')]"));            
-                int year = Integer.parseInt(yearElement.getText());
-                long epoch = System.currentTimeMillis()/1000;
-                teamData.add(new Team(epoch, name, winPct, year));
+                WebElement winPct = element.findElement(By.xpath("./td[contains(@class,'pct')]"));
+                double winPctNum = Double.parseDouble(winPct.getText());
+                if(winPctNum<0.40){
+                    WebElement nameElement = element.findElement(By.xpath("./td[@class='name']"));
+                    String name = nameElement.getText();
+                    WebElement yearElement = element.findElement(By.xpath("./td[@class='year']"));            
+                    int year = Integer.parseInt(yearElement.getText());
+                    long epoch = System.currentTimeMillis()/1000;
+                    teamData.add(new Team(epoch, name, winPctNum, year));
+                }
             }   
             Wrappers.click(nextPage, driver);
-            Thread.sleep(2000);
-
+            
             WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
-            list = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//td[contains(@class,'pct') and number(text()) > 0.40 ]"))); 
+            list = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//tr[@class='team']"))); 
            
         }
 
@@ -110,33 +112,32 @@ public class Wrappers {
 
         for(WebElement element : list){
             Wrappers.click(element, driver);
-            Thread.sleep(3000);
+          
+            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
+            //waiting for films to appear
+            wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//tr[@class='film']")));
+            
             int year = Integer.parseInt(element.getText().trim());
-            List<WebElement> titles = driver.findElements(By.xpath("//td[@class='film-title']"));
+            List<WebElement> titles = driver.findElements(By.xpath("//tr[@class='film']"));
             int topFive = limit;
-            for(WebElement filmTitle : titles){
+            int count = 1;
+            for(WebElement filmTitle : titles){        
                 String title = filmTitle.getText();
-                WebElement nominationsElement = filmTitle.findElement(By.xpath("following-sibling::td[contains(@class,'nominations')]"));
+                WebElement nominationsElement = filmTitle.findElement(By.xpath("./td[contains(@class,'nominations')]"));
                 int nominations = Integer.parseInt(nominationsElement.getText().trim());
-                WebElement awardsElement = filmTitle.findElement(By.xpath("following-sibling::td[contains(@class,'awards')]"));
+                WebElement awardsElement = filmTitle.findElement(By.xpath("./td[contains(@class,'awards')]"));
                 int awards = Integer.parseInt(awardsElement.getText().trim());
-                try{
-                    WebElement bestPictureElement = filmTitle.findElement(By.xpath("following-sibling::td[contains(@class,'best')]/i"));
-                    isBestPicture = bestPictureElement.isDisplayed();
+                if(count==1){
+                    isBestPicture=true;
                 }
-                catch(Exception e){
-                    isBestPicture = false;
-                }
-                
                 long epoch = System.currentTimeMillis()/1000;
                 oscar.add(new Oscar(epoch, title, year, nominations, awards, isBestPicture));
-
                 topFive--;
                 if(topFive==0) break;
+                count++;
+                isBestPicture=false;
             }
-
-            WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(3));
-            titles = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//td[@class='film-title']")));
+            titles = wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(By.xpath("//tr[@class='film']")));
         }
 
         String json = gson.toJson(oscar);
